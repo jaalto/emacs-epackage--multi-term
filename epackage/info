@@ -1,0 +1,21 @@
+Package: multi-term
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: ahei <ahei0802@gmail.com>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/emacs/download/multi-term.el
+Vcs-Browser:
+Homepage: http://www.emacswiki.org/emacs/download/multi-term.el
+Wiki: http://www.emacswiki.org/emacs/
+Commentary: multi-term.el
+X-Development:
+  Upstream maintainer at http://www.emacswiki.org/emacs/ahei
+Description: multiple terminal management
+ Create or switch between multiple terminal buffers quickly.
+ Basic M-x commands: multi-term, multi-term-next, multi-term-prev.
