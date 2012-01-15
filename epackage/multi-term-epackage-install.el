@@ -11,4 +11,4 @@
 (autoload 'term-send-forward-word               "multi-term" "" t)
 (autoload 'term-send-reverse-search-history     "multi-term" "" t)
 (autoload 'multi-term-window-dedicated-only-one-p "multi-term" "" t)
-(provide 'multi-term-epkg-install)
+(provide 'multi-term-epackage-install)

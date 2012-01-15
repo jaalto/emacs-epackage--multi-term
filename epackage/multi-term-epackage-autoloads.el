@@ -28,4 +28,4 @@
 (autoload 'multi-term-buffer-exist-p            "multi-term" "" nil)
 (autoload 'multi-term-dedicated-window-p        "multi-term" "" nil)
 (autoload 'multi-term-window-dedicated-only-one-p "multi-term" "" t)
-(provide 'multi-term-epkg-autoloads)
+(provide 'multi-term-epackage-autoloads)
